@@ -1,0 +1,3 @@
+- Hi, I’m @MineDrum
+- I'm interested in music and programming
+- Currently learning Vue and Laravel
