@@ -1,3 +1,5 @@
-- Hi, I’m @MineDrum
-- I'm interested in music and programming
-- Currently learning Vue and Laravel
+Proficient VueJS developer also learning Nuxt
+
+I created the www.pionect.com website using Vue, Laravel, and Wordpress
+
+My dream is to one day start my own record label
